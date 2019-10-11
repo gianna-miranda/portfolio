@@ -1,0 +1,24 @@
+body {
+    color: #222222;
+    font-size: 2em;
+    font-family: "Opens Sans", "Helvetica Neue", sans-serif;
+    margin-bottom: 0;
+    text-align: center;
+  }   
+  .row-social{
+    margin-top:50px;
+    /* //margin-bottom: 20px;   */
+  }
+  
+  .btn-fcc{
+    color:rgb(255,255,255);
+    background:rgb(8,100,10);
+    /* //#00691C; */
+    
+  }
+  
+  .btn-fcc:hover{
+    color:rgb(255,255,255);
+    background:#004A14;  
+  }
+  
